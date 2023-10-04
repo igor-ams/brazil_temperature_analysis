@@ -17,3 +17,8 @@ Este projeto consiste em três partes principais:
 - Igor Augusto Martins Sousa - igorgusto.ms@gmail.com
 - Natália Bachiega Magalhães - nataliabachiega1@gmail.com
 - Vinícius Lamas von Sohsten - vinivon@gmail.com
+
+##Fonte de dados:
+
+Temperaturas : http://www.fao.org/faostat/en/#data/ET/metadata
+Mauna Loa (CO2) : https://gml.noaa.gov/ccgg/trends/data.html
