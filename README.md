@@ -12,7 +12,7 @@ Este projeto consiste em três partes principais:
 
 3. **Correlação entre Temperatura e CO2**: Utilizamos técnicas estatísticas para calcular a correlação entre as mudanças na temperatura e os níveis de CO2 atmosférico. Isso nos permite avaliar se existe uma relação significativa entre essas duas variáveis.
 
-## Autor
+## Autores
 
 - Nomes
 - E-mails
