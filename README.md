@@ -14,7 +14,6 @@ Este projeto consiste em três partes principais:
 
 ## Autores
 
-- Nomes
-- E-mails
-
-
+- Igor Augusto Martins Sousa - igorgusto.ms@gmail.com
+- Natália Bachiega Magalhães - nataliabachiega1@gmail.com
+- Vinícius Lamas von Sohsten - vinivon@gmail.com
