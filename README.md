@@ -20,5 +20,5 @@ Este projeto consiste em três partes principais:
 
 ##Fonte de dados:
 
-- Temperaturas : http://www.fao.org/faostat/en/#data/ET/metadata
+- Temperaturas : https://www.kaggle.com/datasets/sevgisarac/temperature-change
 - Mauna Loa (CO2) : https://gml.noaa.gov/ccgg/trends/data.html
